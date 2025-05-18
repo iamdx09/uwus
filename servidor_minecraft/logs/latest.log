@@ -455,4 +455,16 @@ Server threadEx[18May2025 01:55:58.000] [Server thread/INFO] [snownee.jade.Jade/
 Server threadEx[18May2025 01:55:58.008] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
 Server threadEx[18May2025 01:55:58.009] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
 Server threadEx[18May2025 01:55:58.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
-Server threadEx
+Server threadEx[18May2025 02:19:53.429] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player FABIAN_MIX is 6f18e22d-059b-3b13-b5ce-c43a0871f879
+User Authenticator #1Ex[18May2025 02:19:53.666] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-7Ex[18May2025 02:19:56.803] [Server thread/INFO] [net.minecraft.class_3324/]: FABIAN_MIX[/127.16.122.42:36435] logged in with entity id 6 at (25.5, 75.0, -164.5)
+Server threadEx[18May2025 02:19:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX joined the game
+Server threadEx[18May2025 02:20:02.847] [Craft Scheduler Thread - 2/INFO] [OpenAudioMc/]: [info] Attempting to login to voice chat...
+Craft Scheduler Thread - 2Ex[18May2025 02:20:03.416] [OaVoiceWorker/INFO] [OpenAudioMc/]: [info] Voice chat connected!
+OaVoiceWorkerEx[18May2025 02:20:30.558] [Worker-Main-6/WARN] [net.minecraft.class_6124/]: Empty height range: [-55 absolute--60 absolute]
+Worker-Main-6Ex[18May2025 02:20:30.558] [Worker-Main-6/WARN] [net.minecraft.class_6124/]: Empty height range: [-55 absolute--60 absolute]
+Worker-Main-6Ex[18May2025 02:20:30.558] [Worker-Main-6/WARN] [net.minecraft.class_6124/]: Empty height range: [-55 absolute--60 absolute]
+Worker-Main-6Ex[18May2025 02:20:44.960] [Server thread/INFO] [net.minecraft.class_3244/]: FABIAN_MIX lost connection: Disconnected
+Server threadEx[18May2025 02:20:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX left the game
+Server threadEx[18May2025 02:20:59.627] [EventThread/INFO] [OpenAudioMc/]: [info] The server closed the primary connection, but we were already aware of this. Ignoring.
+EventThreadEx
