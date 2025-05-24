@@ -448,4 +448,60 @@ Server threadEx[24May2025 17:02:16.953] [Server thread/INFO] [snownee.jade.Jade/
 Server threadEx[24May2025 17:02:16.961] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
 Server threadEx[24May2025 17:02:16.962] [Server thread/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
 Server threadEx[24May2025 17:02:16.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+Server threadEx[24May2025 17:11:59.550] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player Marcuss988 is 41379ac5-3c03-351c-a2d8-9a905780da64
+User Authenticator #1Ex[24May2025 17:11:59.730] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-6Ex[24May2025 17:12:00.429] [Server thread/INFO] [net.minecraft.class_3324/]: Marcuss988[/127.160.20.161:49401] logged in with entity id 8 at (31.5, 88.0, -154.5)
+Server threadEx[24May2025 17:12:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 joined the game
+Server threadEx[24May2025 17:12:05.832] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #0Ex[24May2025 17:12:08.085] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #1Ex[24May2025 17:12:09.437] [Craft Scheduler Thread - 2/INFO] [OpenAudioMc/]: [info] Attempting to login to voice chat...
+Craft Scheduler Thread - 2Ex[24May2025 17:12:11.000] [Worker-Main-5/WARN] [net.minecraft.class_6124/]: Empty height range: [-55 absolute--60 absolute]
+Worker-Main-5Ex[24May2025 17:12:11.000] [Worker-Main-5/WARN] [net.minecraft.class_6124/]: Empty height range: [-55 absolute--60 absolute]
+Worker-Main-5Ex[24May2025 17:12:11.000] [Worker-Main-5/WARN] [net.minecraft.class_6124/]: Empty height range: [-55 absolute--60 absolute]
+Worker-Main-5Ex[24May2025 17:12:17.472] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:12:18.516] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> spawn de mierdaa
+Async Chat Thread - #1Ex[24May2025 17:12:19.432] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:12:19.432] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 1
+Server threadEx[24May2025 17:12:19.680] [OkHttp https://nif-1.openaudiomc.net/.../WARN] [OpenAudioMc/]: [33mWARNING: Voicechat ws error: timeout - [0m
+OkHttp https://nif-1.openaudiomc.net/...Ex[24May2025 17:12:29.560] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:12:31.532] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:12:31.532] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 2
+Server threadEx[24May2025 17:12:41.655] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:12:43.632] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:12:43.632] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 3
+Server threadEx[24May2025 17:12:44.406] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> iam
+Async Chat Thread - #0Ex[24May2025 17:12:53.754] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:12:55.732] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:12:55.732] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 4
+Server threadEx[24May2025 17:13:04.200] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #1Ex[24May2025 17:13:05.857] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:13:07.832] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:13:07.832] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 5
+Server threadEx[24May2025 17:13:17.950] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:13:19.932] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:13:19.932] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 6
+Server threadEx[24May2025 17:13:20.164] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> iam
+Async Chat Thread - #0Ex[24May2025 17:13:30.053] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:13:32.032] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:13:32.032] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 7
+Server threadEx[24May2025 17:13:42.155] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, and the system has given up trying to reconnect.[0m
+EventThreadEx[24May2025 17:14:52.966] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #3Ex[24May2025 17:14:56.063] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #2Ex[24May2025 17:16:04.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Stone Age]
+Server threadEx[24May2025 17:16:46.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Getting an Upgrade]
+Server threadEx[24May2025 17:17:31.322] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #5Ex[24May2025 17:17:59.199] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #4Ex[24May2025 17:18:09.145] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #5Ex[24May2025 17:18:22.958] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #4Ex[24May2025 17:18:53.450] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #5Ex[24May2025 17:18:56.990] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> iam
+Async Chat Thread - #4Ex[24May2025 17:19:05.239] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #5Ex[24May2025 17:19:37.567] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> boeeeeeeee
+Async Chat Thread - #5Ex[24May2025 17:20:05.686] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 lost connection: Disconnected
+Server threadEx[24May2025 17:20:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 left the game
+Server threadEx[24May2025 17:20:45.338] [User Authenticator #2/INFO] [net.minecraft.class_3248/]: UUID of player Marcuss988 is 41379ac5-3c03-351c-a2d8-9a905780da64
+User Authenticator #2Ex[24May2025 17:20:45.541] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-9Ex[24May2025 17:21:00.787] [Server thread/INFO] [net.minecraft.class_8610/]: com.mojang.authlib.GameProfile@3e0e3e1c[id=41379ac5-3c03-351c-a2d8-9a905780da64,name=Marcuss988,properties={}] lost connection: Disconnected
+Server threadEx[24May2025 17:21:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+Server threadEx[24May2025 17:21:25.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alguien jugando?
 Server threadEx
