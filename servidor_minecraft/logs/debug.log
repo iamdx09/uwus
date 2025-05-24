@@ -6264,4 +6264,376 @@ Server threadEx[24May2025 17:21:16.478] [Server console handler/DEBUG] [Implemen
 Server console handlerEx[24May2025 17:21:18.253] [Server console handler/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/jline/terminal/impl/MouseSupport$1
 Server console handlerEx[24May2025 17:21:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
 Server threadEx[24May2025 17:21:25.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alguien jugando?
+Server threadEx[24May2025 17:34:11.059] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player FABIAN_MIX is 6f18e22d-059b-3b13-b5ce-c43a0871f879
+User Authenticator #3Ex[24May2025 17:34:11.082] [ForkJoinPool.commonPool-worker-11/DEBUG] [SkinRestorer/]: Fetching FABIAN_MIX's skin
+ForkJoinPool.commonPool-worker-11Ex[24May2025 17:34:11.240] [ForkJoinPool.commonPool-worker-11/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-11Ex[24May2025 17:34:12.917] [Server thread/DEBUG] [fabric-data-attachment-api-v1/]: Couldn't send attachment configuration packet to client, as the client cannot receive the payload.
+Server threadEx[24May2025 17:34:12.918] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: []
+Server threadEx[24May2025 17:34:12.966] [Server thread/INFO] [net.minecraft.class_3324/]: FABIAN_MIX[/127.140.30.93:48681] logged in with entity id 2419 at (-28.11520511742064, 78.0, -192.24035558612255)
+Server threadEx[24May2025 17:34:12.969] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to FABIAN_MIX (6f18e22d-059b-3b13-b5ce-c43a0871f879)
+Server threadEx[24May2025 17:34:13.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX joined the game
+Server threadEx[24May2025 17:34:16.958] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{FABIAN_MIX}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell FABIAN_MIX '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@e4799212],insertion=FABIAN_MIX}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #0Ex[24May2025 17:34:16.960] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{FABIAN_MIX}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell FABIAN_MIX '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@e4799212],insertion=FABIAN_MIX}]/]: Handling inbound packet from channel with name "minecraft:brand"
+Netty Epoll Server IO #0Ex[24May2025 17:34:17.963] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Craft Scheduler Thread - 8Ex[24May2025 17:34:17.963] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.963] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.963] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Craft Scheduler Thread - 8Ex[24May2025 17:34:17.963] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.964] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Craft Scheduler Thread - 8Ex[24May2025 17:34:17.964] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10050 scheduled after   0 µs: OkHttp gateway.openaudiomc.net
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.964] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.964] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10051 scheduled after   0 µs: OkHttp gateway.openaudiomc.net
+Craft Scheduler Thread - 8Ex[24May2025 17:34:17.965] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 8Ex[24May2025 17:34:17.965] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003    90 HEADERS       END_HEADERS
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.965] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   142 HEADERS       END_STREAM|END_HEADERS
+Craft Scheduler Thread - 8Ex[24May2025 17:34:17.965] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10050 starting              : OkHttp gateway.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:34:17.966] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:17.966] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:17.966] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 finished run in  69 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:17.966] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10051 starting              : OkHttp gateway.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:34:17.966] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:17.966] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   164 DATA          END_STREAM
+Craft Scheduler Thread - 12Ex[24May2025 17:34:17.966] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:17.966] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 finished run in 175 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.001] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.002] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10045 scheduled after   0 µs: OkHttp gateway.openaudiomc.net applyAndAckSettings
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.002] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.002] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.002] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10045 starting              : OkHttp gateway.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.002] [OkHttp gateway.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10049 scheduled after   0 µs: OkHttp gateway.openaudiomc.net onSettings
+OkHttp gateway.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.002] [OkHttp gateway.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp gateway.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.002] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10045 finished run in 328 µs: OkHttp gateway.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.002] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10049 starting              : OkHttp gateway.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.002] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10049 finished run in  79 µs: OkHttp gateway.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.003] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.003] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10044 scheduled after   0 µs: OkHttp gateway.openaudiomc.net applyAndAckSettings
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.003] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.003] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.003] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10044 starting              : OkHttp gateway.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.003] [OkHttp gateway.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10048 scheduled after   0 µs: OkHttp gateway.openaudiomc.net onSettings
+OkHttp gateway.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.003] [OkHttp gateway.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp gateway.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.003] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10044 finished run in 448 µs: OkHttp gateway.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.003] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10048 starting              : OkHttp gateway.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.003] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10048 finished run in  57 µs: OkHttp gateway.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.010] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.010] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.010] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.010] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10056 scheduled after   0 µs: OkHttp account.openaudiomc.net
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.011] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10056 starting              : OkHttp account.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:34:18.011] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.011] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.011] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:18.011] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 finished run in 270 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.012] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   130 HEADERS       END_STREAM|END_HEADERS
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.049] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.050] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10053 scheduled after   0 µs: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.050] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.050] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.050] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10053 starting              : OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.050] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10055 scheduled after   0 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.050] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.050] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10055 starting              : OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.050] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10055 finished run in  33 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.050] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10053 finished run in 487 µs: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.380] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   587 HEADERS       END_HEADERS
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.381] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   147 DATA          
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.381] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003    10 DATA          
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.381] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+OkHttp account.openaudiomc.netEx[24May2025 17:34:18.381] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.381] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.381] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:18.381] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 finished run in  84 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.535] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   616 HEADERS       END_HEADERS
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.536] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003    79 DATA          
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.536] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:18.536] [Craft Scheduler Thread - 12/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 12Ex[24May2025 17:34:18.536] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.536] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:18.536] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 finished run in  58 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.637] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.637] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.638] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.638] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10061 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.638] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.638] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   189 HEADERS       END_STREAM|END_HEADERS
+Craft Scheduler Thread - 17Ex[24May2025 17:34:18.639] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10061 starting              : OkHttp nif-1.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:34:18.639] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.639] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:18.639] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 finished run in  56 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:18.903] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    30 SETTINGS      
+OkHttp nif-1.openaudiomc.netEx[24May2025 17:34:18.903] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net applyAndAckSettings
+OkHttp nif-1.openaudiomc.netEx[24May2025 17:34:18.903] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 starting              : OkHttp nif-1.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.903] [OkHttp nif-1.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10060 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net onSettings
+OkHttp nif-1.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.903] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp nif-1.openaudiomc.netEx[24May2025 17:34:18.903] [OkHttp nif-1.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp nif-1.openaudiomc.net applyAndAckSettingsEx[24May2025 17:34:18.903] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10060 starting              : OkHttp nif-1.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.903] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp nif-1.openaudiomc.netEx[24May2025 17:34:18.903] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10060 finished run in  32 µs: OkHttp nif-1.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[24May2025 17:34:18.903] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 finished run in 253 µs: OkHttp nif-1.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[24May2025 17:34:19.688] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   590 HEADERS       END_HEADERS
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:19.688] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   147 DATA          
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:19.689] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+OkHttp gateway.openaudiomc.netEx[24May2025 17:34:19.689] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 8Ex[24May2025 17:34:19.689] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:19.689] [Craft Scheduler Thread - 8/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Craft Scheduler Thread - 8Ex[24May2025 17:34:19.689] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:19.690] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 finished run in 771 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=false&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:34:19.690] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=false&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:34:19.805] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10041 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:19.805] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10041 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:19.805] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10041 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:19.805] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10041 finished run in  90 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:28.640] [Craft Scheduler Thread - 17/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 17Ex[24May2025 17:34:28.640] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:28.640] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:28.640] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 finished run in  87 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:28.640] [Craft Scheduler Thread - 17/WARN] [OpenAudioMc/]: [33mWARNING: Failed to login to RTC, error: The transport layer failed to connect to the server[0m
+Craft Scheduler Thread - 17Ex[24May2025 17:34:28.640] [Craft Scheduler Thread - 17/WARN] [OpenAudioMc/]: [33mWARNING: Failed to initialize voice events.[0m
+Craft Scheduler Thread - 17Ex[24May2025 17:34:28.646] [Okio Watchdog/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net[3] writeSynReset
+Okio WatchdogEx[24May2025 17:34:28.646] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 starting              : OkHttp nif-1.openaudiomc.net[3] writeSynReset
+OkHttp TaskRunnerEx[24May2025 17:34:28.646] [OkHttp nif-1.openaudiomc.net[3] writeSynReset/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003     4 RST_STREAM    
+OkHttp nif-1.openaudiomc.net[3] writeSynResetEx[24May2025 17:34:28.646] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 finished run in 254 µs: OkHttp nif-1.openaudiomc.net[3] writeSynReset
+OkHttp TaskRunnerEx[24May2025 17:34:28.648] [Okio Watchdog/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net ping
+Okio WatchdogEx[24May2025 17:34:28.648] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 starting              : OkHttp nif-1.openaudiomc.net ping
+OkHttp TaskRunnerEx[24May2025 17:34:28.648] [OkHttp nif-1.openaudiomc.net ping/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 PING          
+OkHttp nif-1.openaudiomc.net pingEx[24May2025 17:34:28.648] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10058 finished run in 268 µs: OkHttp nif-1.openaudiomc.net ping
+OkHttp TaskRunnerEx[24May2025 17:34:28.874] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     8 PING          ACK
+OkHttp nif-1.openaudiomc.netEx[24May2025 17:34:29.806] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10041 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:34:29.807] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:34:29.807] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:34:31.782] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:34:31.782] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 1
+Server threadEx[24May2025 17:34:31.783] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:34:31.783] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:34:31.783] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:34:31.783] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:34:31.783] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:34:31.783] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:34:31.784] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:34:31.784] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:34:31.784] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:34:31.784] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:34:31.899] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10062 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:31.900] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10062 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:31.900] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10062 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:31.900] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10062 finished run in  60 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:36.398] [Async Chat Thread - #7/INFO] [Console/]: <FABIAN_MIX> hola?
+Async Chat Thread - #7Ex[24May2025 17:34:41.900] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10062 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:34:41.901] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:34:41.901] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:34:43.882] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:34:43.882] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 2
+Server threadEx[24May2025 17:34:43.883] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:34:43.883] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:34:43.883] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:34:43.883] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:34:43.884] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:34:43.884] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:34:43.884] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:34:43.884] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:34:43.884] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:34:43.884] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:34:43.999] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10063 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:43.999] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10063 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:43.999] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10063 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:43.999] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10063 finished run in  54 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:54.000] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10063 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:34:54.000] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:34:54.001] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:34:54.001] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:34:55.982] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:34:55.982] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 3
+Server threadEx[24May2025 17:34:55.982] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:34:55.983] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:34:56.104] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10064 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:34:56.104] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10064 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:34:56.104] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10064 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:34:56.104] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10064 finished run in  82 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:06.105] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10064 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:35:06.105] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:35:06.105] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:08.082] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:08.082] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 4
+Server threadEx[24May2025 17:35:08.082] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:35:08.083] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:35:08.199] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10065 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:08.199] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10065 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:08.199] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10065 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:35:08.199] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10065 finished run in  77 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:18.200] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10065 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:35:18.200] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:35:18.200] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:20.182] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:20.182] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 5
+Server threadEx[24May2025 17:35:20.182] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:35:20.183] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:35:20.298] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10066 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:20.299] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10066 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:20.299] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10066 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:35:20.299] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10066 finished run in 321 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:30.299] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10066 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:35:30.300] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:35:30.300] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:32.282] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:32.282] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 6
+Server threadEx[24May2025 17:35:32.282] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:35:32.283] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:35:32.406] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10067 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:32.406] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10067 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:32.406] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10067 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:35:32.406] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10067 finished run in  61 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:42.406] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10067 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:35:42.407] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:35:42.407] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:44.382] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:44.382] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 7
+Server threadEx[24May2025 17:35:44.382] [Server thread/DEBUG] [com.craftmend.thirdparty.iosocket.client.IO/]: ignoring socket cache for http://nif-1.openaudiomc.net:80/
+Server threadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: readyState CLOSED
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: opening http://nif-1.openaudiomc.net:80/
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connection attempt will timeout after 20000
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: creating transport 'polling'
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: setting transport polling
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: polling
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr poll
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: xhr open GET: http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server
+EventThreadEx[24May2025 17:35:44.383] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.PollingXHR/]: sending xhr with url http://nif-1.openaudiomc.net/socket.io/?private=3083b77f-26ad-4ab6-bee3-fba712ba5a1b&EIO=3&reconnect=true&transport=polling&public=6792072f-fa9f-476b-b41c-b03805dd82f6&type=server | data null
+EventThreadEx[24May2025 17:35:44.498] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10068 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:44.498] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10068 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:44.498] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10068 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[24May2025 17:35:44.498] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10068 finished run in  61 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:35:54.499] [OkHttp http://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10068 canceled              : OkHttp ConnectionPool
+OkHttp http://nif-1.openaudiomc.net/...Ex[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket error com.craftmend.thirdparty.iosocket.engineio.client.EngineIOException: xhr poll error
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: connect_error
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: disconnect
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.client.Manager/]: cleanup
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket close with reason: forced close
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.transports.Polling/]: transport not open - deferring close
+EventThreadEx[24May2025 17:35:54.499] [EventThread/DEBUG] [com.craftmend.thirdparty.iosocket.engineio.client.Socket/]: socket closing - telling transport to close
+EventThreadEx[24May2025 17:35:54.499] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, and the system has given up trying to reconnect.[0m
+EventThreadEx[24May2025 17:37:27.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Stone Age]
+Server threadEx[24May2025 17:39:05.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Getting an Upgrade]
+Server threadEx[24May2025 17:39:18.382] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:18.383] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10052 finished run in 485 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:18.383] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+OkHttp account.openaudiomc.netEx[24May2025 17:39:18.383] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10056 finished run in 300 s : OkHttp account.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:39:18.536] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:18.537] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10042 finished run in 498 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:18.537] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+OkHttp gateway.openaudiomc.netEx[24May2025 17:39:18.537] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10050 finished run in 301 s : OkHttp gateway.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:39:19.690] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:19.691] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10043 finished run in 337 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:19.691] [OkHttp gateway.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+OkHttp gateway.openaudiomc.netEx[24May2025 17:39:19.691] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10051 finished run in 302 s : OkHttp gateway.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:39:28.640] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:28.641] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10057 finished run in 343 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[24May2025 17:39:28.641] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+OkHttp nif-1.openaudiomc.netEx[24May2025 17:39:28.641] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10061 finished run in 310 s : OkHttp nif-1.openaudiomc.net
+OkHttp TaskRunnerEx[24May2025 17:40:40.856] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_1258
+Server threadEx[24May2025 17:40:40.858] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.CompoundContainerMixin from mixins.arclight.core.json into net.minecraft.class_1258
+Server threadEx[24May2025 17:40:40.879] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing DoubleInventoryAccessor from fabric-transfer-api-v1.mixins.json into net.minecraft.class_1258
+Server threadEx[24May2025 17:40:40.879] [Server thread/DEBUG] [FabricLoader/Mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric-transfer-api-v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+Server threadEx[24May2025 17:40:40.930] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.class_4838
+Server threadEx[24May2025 17:40:41.000] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.monster.piglin.PiglinAiMixin from mod arclight->@Inject::arclight$pickup(Lnet/minecraft/class_1542;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+Server threadEx[24May2025 17:40:42.563] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.class_1725
+Server threadEx[24May2025 17:40:42.587] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_3722$1
+Server threadEx[24May2025 17:40:42.588] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.entity.LecternTileEntity1Mixin from mixins.arclight.core.json into net.minecraft.class_3722$1
+Server threadEx[24May2025 17:40:42.613] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_3962$class_3963
+Server threadEx[24May2025 17:40:42.614] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.class_3962$class_3963
+Server threadEx[24May2025 17:40:42.617] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_InputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Server threadEx[24May2025 17:40:42.617] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_InputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Server threadEx[24May2025 17:40:42.617] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_InputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+Server threadEx[24May2025 17:40:42.619] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_3962$class_3964
+Server threadEx[24May2025 17:40:42.619] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.class_3962$class_3964
+Server threadEx[24May2025 17:40:42.627] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Server threadEx[24May2025 17:40:42.627] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Server threadEx[24May2025 17:40:42.627] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
 Server threadEx

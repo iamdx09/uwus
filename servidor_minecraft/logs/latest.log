@@ -504,4 +504,35 @@ User Authenticator #2Ex[24May2025 17:20:45.541] [ForkJoinPool.commonPool-worker-
 ForkJoinPool.commonPool-worker-9Ex[24May2025 17:21:00.787] [Server thread/INFO] [net.minecraft.class_8610/]: com.mojang.authlib.GameProfile@3e0e3e1c[id=41379ac5-3c03-351c-a2d8-9a905780da64,name=Marcuss988,properties={}] lost connection: Disconnected
 Server threadEx[24May2025 17:21:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
 Server threadEx[24May2025 17:21:25.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alguien jugando?
+Server threadEx[24May2025 17:34:11.059] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player FABIAN_MIX is 6f18e22d-059b-3b13-b5ce-c43a0871f879
+User Authenticator #3Ex[24May2025 17:34:11.240] [ForkJoinPool.commonPool-worker-11/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-11Ex[24May2025 17:34:12.966] [Server thread/INFO] [net.minecraft.class_3324/]: FABIAN_MIX[/127.140.30.93:48681] logged in with entity id 2419 at (-28.11520511742064, 78.0, -192.24035558612255)
+Server threadEx[24May2025 17:34:13.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX joined the game
+Server threadEx[24May2025 17:34:28.640] [Craft Scheduler Thread - 17/WARN] [OpenAudioMc/]: [33mWARNING: Failed to login to RTC, error: The transport layer failed to connect to the server[0m
+Craft Scheduler Thread - 17Ex[24May2025 17:34:28.640] [Craft Scheduler Thread - 17/WARN] [OpenAudioMc/]: [33mWARNING: Failed to initialize voice events.[0m
+Craft Scheduler Thread - 17Ex[24May2025 17:34:29.807] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:34:31.782] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:34:31.782] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 1
+Server threadEx[24May2025 17:34:36.398] [Async Chat Thread - #7/INFO] [Console/]: <FABIAN_MIX> hola?
+Async Chat Thread - #7Ex[24May2025 17:34:41.901] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:34:43.882] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:34:43.882] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 2
+Server threadEx[24May2025 17:34:54.001] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:34:55.982] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:34:55.982] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 3
+Server threadEx[24May2025 17:35:06.105] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:08.082] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:08.082] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 4
+Server threadEx[24May2025 17:35:18.200] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:20.182] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:20.182] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 5
+Server threadEx[24May2025 17:35:30.300] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:32.282] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:32.282] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 6
+Server threadEx[24May2025 17:35:42.407] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, attempting reconnect in 2 seconds.[0m
+EventThreadEx[24May2025 17:35:44.382] [Server thread/WARN] [OpenAudioMc/]: [33mWARNING: Reconnecting...[0m
+Server threadEx[24May2025 17:35:44.382] [Server thread/INFO] [OpenAudioMc/]: [info] Attempting to restore connection to OpenAudioMc, attempt 7
+Server threadEx[24May2025 17:35:54.499] [EventThread/WARN] [OpenAudioMc/]: [33mWARNING: The server closed the primary connection unexpectedly, and the system has given up trying to reconnect.[0m
+EventThreadEx[24May2025 17:37:27.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Stone Age]
+Server threadEx[24May2025 17:39:05.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Getting an Upgrade]
 Server threadEx
