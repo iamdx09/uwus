@@ -6636,4 +6636,13 @@ Server threadEx[24May2025 17:40:42.619] [Server thread/DEBUG] [FabricLoader/Mixi
 Server threadEx[24May2025 17:40:42.627] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 Server threadEx[24May2025 17:40:42.627] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
 Server threadEx[24May2025 17:40:42.627] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
-Server threadEx
+Server threadEx[24May2025 17:41:55.386] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_9274$1
+Server threadEx[24May2025 17:42:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Acquire Hardware]
+Server threadEx[24May2025 17:43:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Sweet Dreams]
+Server threadEx[24May2025 17:43:06.285] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+Server threadEx[24May2025 17:43:41.553] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2541$1
+Worker-Main-9Ex[24May2025 17:45:17.132] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+Server threadEx[24May2025 17:45:17.135] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class fr/rakambda/fallingtree/fabric/common/wrapper/PlayerWrapper$1
+Server threadEx[24May2025 17:45:18.478] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+Server threadEx[24May2025 17:45:25.644] [Worker-Main-9/DEBUG] [FabricLoader/Mixin/]: Mixing world.entity.animal.horse.AbstractHorseMixin$ContainerMixin from mixins.arclight.core.json into net.minecraft.class_1496$1
+Worker-Main-9Ex
